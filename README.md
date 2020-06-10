@@ -10,6 +10,10 @@ Then run: `python3 run.py`
 
 Now, it is running on `http://127.0.0.1:5000/`
 
+## Application Display
+
+<img src="images/image1.png" width="75%" height="75%">
+
 ## Table of Contents
 
 - [Flask Blog Website](#flask-blog-website)
