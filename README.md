@@ -2,22 +2,11 @@
 
 A personal blog created in Flask, same as the one created in Django.
 
-## How to run
-
-Activate `venv`
-
-Then run: `python3 run.py`
-
-Now, it is running on `http://127.0.0.1:5000/`
-
-## Application Display
-
-<img src="images/image1.png" width="75%" height="75%">
-
 ## Table of Contents
 
 - [Flask Blog Website](#flask-blog-website)
   - [How to run](#how-to-run)
+  - [Application Display](#application-display)
 - [Notes on Flask App](#notes-on-flask-app)
   - [1 - Setup](#1---setup)
   - [2 - Templates](#2---templates)
@@ -30,6 +19,18 @@ Now, it is running on `http://127.0.0.1:5000/`
   - [9 - Pagination](#9---pagination)
   - [10 - Password Reset](#10---password-reset)
   - [12 - Restructuring and Modularizing the Application Using Blueprint](#12---restructuring-and-modularizing-the-application-using-blueprint)
+
+## How to run
+
+Activate `venv`
+
+Then run: `python3 run.py`
+
+Now, it is running on `http://127.0.0.1:5000/`
+
+## Application Display
+
+<img src="images/image1.png" width="75%" height="75%">
 
 # Notes on Flask App
 
